@@ -1,0 +1,70 @@
+.navbar {
+    background-color: #000000;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+  .navbar a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .navbar .navbar-brand {
+    float: left;
+    padding: 14px 16px;
+    width: auto;
+  }
+  
+  .navbar .navbar-brand img {
+    height: 40px;
+    width: 90px;
+  }
+  
+  .navbar .navbar-menu {
+    float: left;
+  }
+  
+  .navbar .navbar-start {
+    float: left;
+  }
+  
+  .navbar .navbar-end {
+    float: right;
+  }
+  
+  .navbar .navbar-item {
+    padding: 10px;
+  }
+  
+  .navbar .navbar-button {
+    padding: 10px;
+  }
+
+  .menu{
+    background-color: #000000;
+    overflow: hidden;
+    padding-bottom: 15px;
+    padding-left: 160px;
+  }
+
+  .item{
+    padding: 20px;
+    color: #FFFFFF;
+
+    text-decoration: none;
+  }
+
+  .menu a:hover {
+    background-color: #ddd;
+    color: black;
+  }

@@ -1,0 +1,94 @@
+.Account{
+    height: 100vh;
+    background-color: white;
+    text-align: center;
+    width: 80%;
+  }
+  h1{
+      text-align: center;
+      position: relative;
+      right: 198px;
+      
+  }
+  
+  .entry
+  {
+    font-weight: bold;
+    font-size: 400;
+    margin-bottom: 40px;
+    margin-top: 20px;
+   
+    position: relative;
+    right: 30px;
+    left: 10px;
+    
+  }
+  .field{
+      font-weight: bold;
+      font-size: 400;
+      margin-bottom: 40px;
+      margin-top: 20px;
+     
+      position: relative;
+      right: 120px;
+      left: 5px;  
+  }
+  
+  h2{
+      text-align: center;
+  }
+  
+    
+  
+  
+  h5{
+    
+    margin: 1px;
+    font-weight: 100;
+    display: flex;
+    position: relative;
+    left: 290px;
+  }
+      input
+      {
+        height: 50px;
+        margin-bottom: 10px;
+        background-color: #f6f6f6;
+        width: 50%;
+        /* border: 1px solid black; */
+        border: 0;
+        border-bottom: 1px solid black;
+        margin: 3px;
+        box-sizing: border-box;
+        
+      }
+      
+  
+      
+  
+      button
+      {
+        background-color: black;
+        
+        width: 50%;
+        height: 50px;
+        
+        margin-top: 10px;
+        color: white;
+        text-align: center;
+        align-items: right;
+        position: relative;
+        left: 3px;
+        right: 300px;
+        font-size: medium;
+      }
+      
+  .box
+      {
+        display: flex;
+        flex-direction: row;
+        margin-top: 1px;
+        width: 4%;
+        position: relative;
+        left: 290px;
+      }
